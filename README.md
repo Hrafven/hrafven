@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 I have been in software development since 2015 and just finished a master degree in compute science.
 
 I have been working with [iCom Business Services](https://icom-cloud.com/) since April 2019 in a 10 weeks intership and a one year in a pre-professional contract.
+
+----
+
+<a href="https://www.linkedin.com/in/hugo-bidois-hrafven/" target="_blank"><img src="linkedin.png" alt="Find me on LinkedIn" width="25px"/></a>
