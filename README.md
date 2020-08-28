@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 
 # Hi ! I'm Hugo
 
-I have been in software development since 2015 and just finished a master degree in compute science.
+I have been in software development since 2015 and just became a master degree graduate in compute science.
 
-I have been working with [iCom Business Services](https://icom-cloud.com/) since April 2019 in a 10 weeks intership and a one year in a pre-professional contract.
+I have been working with [iCom Business Services](https://icom-cloud.com/) - since April 2019 in a 10 weeks intership and a one year in a pre-professional contract - on the [Salesforce](https://www.salesforce.com/) platform and [Marketing Cloud](https://www.salesforce.com/products/marketing-cloud/overview/)
+
+
 
 ----
+Find me on
 
-<a href="https://www.linkedin.com/in/hugo-bidois-hrafven/" target="_blank"><img src="linkedin.png" alt="Find me on LinkedIn" width="25px"/></a>
+<a href="https://www.linkedin.com/in/hugo-bidois-hrafven/" target="_blank"></a>
