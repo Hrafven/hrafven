@@ -24,4 +24,4 @@ I have been working with [iCom Business Services](https://icom-cloud.com/) - sin
 ----
 Find me on
 
-<a href="https://www.linkedin.com/in/hugo-bidois-hrafven/" target="_blank"></a>
+<a href="https://www.linkedin.com/in/hugo-bidois-hrafven/" target="_blank"><img src="linkedin.png" alt="Find me on LinkedIn" width="25px"/></a>
