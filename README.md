@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi ! I'm Hugo
+# Hi ! I'm Hugo Bidois
 
 I have been in software development since 2015 and just became a master's degree graduate in compute science.
 
