@@ -19,12 +19,21 @@ I have been in software development since 2015 and just became a master's degree
 
 I have been working with [iCom Business Services](https://icom-cloud.com/) - since April 2019 in a 10 weeks intership and a one year in a pre-professional contract - on the [Salesforce](https://www.salesforce.com/) platform and [Marketing Cloud](https://www.salesforce.com/products/marketing-cloud/overview/)
 
+## About me
+
 I'm interested in :
 - Apex, Salesforce, Marketing Cloud ☁
 - [v language](https://vlang.io/)
 - Flutter
 - Docker & Virtualisation
 - Badminton 🏸
+
+I'm looking to contribute on any OSS project aside with my game project.
+
+## My game project
+
+Crow in the Throne Room is a Hack 'n' slash rogue-like RPG with co-op project. It is still in early design phase and development hasn't started yet.
+I'm looking for help with building character, level, world design and modelling. I'm also open to contribution from developers using OpenGL/Vulkan and vlang.
 
 ----
 Find me on
