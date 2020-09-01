@@ -19,7 +19,12 @@ I have been in software development since 2015 and just became a master's degree
 
 I have been working with [iCom Business Services](https://icom-cloud.com/) - since April 2019 in a 10 weeks intership and a one year in a pre-professional contract - on the [Salesforce](https://www.salesforce.com/) platform and [Marketing Cloud](https://www.salesforce.com/products/marketing-cloud/overview/)
 
-
+I'm interested in :
+- Apex, Salesforce, Marketing Cloud ☁
+- [v language](https://vlang.io/)
+- Flutter
+- Docker & Virtualisation
+- Badminton 🏸
 
 ----
 Find me on
