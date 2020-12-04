@@ -38,4 +38,4 @@ I'm looking for help with building character, level, world design and modelling.
 ----
 Find me on
 
-<a href="https://www.linkedin.com/in/hugo-bidois-hrafven/" target="_blank"><img src="linkedin.png" alt="Find me on LinkedIn" width="25px"/></a>
+<a href="https://www.linkedin.com/in/hugo-bidois-hrafven/" target="_blank"><img src="li-in-bug.png" alt="Find me on LinkedIn" width="25px"/></a>
